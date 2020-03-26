@@ -1,0 +1,21 @@
+cc.exports.g_fileTable = {
+    "app.map.map",
+    "app.map.mapAllData",
+    "app.map.resourcesInMap",
+    "app.map.mapNodeData",
+    "app.map.warFogData",
+    "app.map.mapSpriteManage",
+    "app.map.mapJunXianData",
+    "app.option.smallMiniMap",
+    "app.option.mainOption",
+    "app.uiManager.uiPanelDefine",
+    "app.uiManager.uiManager",
+    "app.data.configData",
+    "app.data.Language",
+    "app.data.ui_res_define",
+    "app.data.commonData",
+    "app.util.util",
+    "app.util.stateData",
+    "app.util.terrain",
+    "app.util.resourceData"
+}
